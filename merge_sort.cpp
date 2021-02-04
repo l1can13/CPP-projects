@@ -1,3 +1,4 @@
+// Строго случайные данные и «отсортированные наоборот» случайные данные
 #include <iostream>
 #include <vector>
 #include <string>
